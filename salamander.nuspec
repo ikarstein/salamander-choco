@@ -12,7 +12,7 @@ letter enclosed in quotation marks, you should use an editor that supports UTF-8
     <description>Free File Manager for Windows.</description>
     <projectUrl>http://www.altap.cz/</projectUrl>
     <packageSourceUrl>https://github.com/ikarstein/salamander-choco</packageSourceUrl>
-    <tags>altap salamander windows file manager</tags>
+    <tags>salamander altap windows file manager admin</tags>
     <copyright>Copyright © 1999-2020 ALTAP. All rights reserved.</copyright>
     <licenseUrl>http://www.altap.cz/salamander/eula/</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
