@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega 
+letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>salamander</id>
+    <title>Altap Salamander</title>
+    <version>4.0.0</version>
+    <authors>ALTAP spol. s r.o.</authors>
+    <owners>Ingo Karstein</owners>
+    <summary>Altap Salamander</summary>
+    <description>Free File Manager for Windows.</description>
+    <projectUrl>http://www.altap.cz/</projectUrl>
+    <packageSourceUrl>https://github.com/ikarstein/salamander-choco</packageSourceUrl>
+    <tags>altap salamander windows file manager</tags>
+    <copyright>Copyright © 1999-2020 ALTAP. All rights reserved.</copyright>
+    <licenseUrl>http://www.altap.cz/salamander/eula/</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <iconUrl>https://pbs.twimg.com/profile_images/764156374/altapsalamander_400x400.png</iconUrl>
+    <releaseNotes>http://www.altap.cz/salamander/changelogs/</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
