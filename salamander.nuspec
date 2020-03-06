@@ -9,7 +9,8 @@ letter enclosed in quotation marks, you should use an editor that supports UTF-8
     <authors>ALTAP spol. s r.o.</authors>
     <owners>Ingo Karstein</owners>
     <summary>Altap Salamander</summary>
-    <description>Free File Manager for Windows.</description>
+    <description>
+	Altap Samalander is a File Manager for Windows. It provides to panes for optimal working with two different file locations. It has a powerful viewer for verious file types included. There are also many plugins for different types of file operations such as checksum calculation and verification, compression and uncompression. It supports to open compressed files (ZIP, 7z) or container files (ISO) in place. - Starting with version 4.0 is freeeware.</description>
     <projectUrl>http://www.altap.cz/</projectUrl>
     <packageSourceUrl>https://github.com/ikarstein/salamander-choco</packageSourceUrl>
     <tags>salamander altap windows file manager admin</tags>
